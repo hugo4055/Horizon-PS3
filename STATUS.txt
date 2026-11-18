@@ -1,0 +1,4 @@
+STATUS: SOURCE PROTOTYPE ONLY
+No PKG generated. No PS3 compilation performed. No hardware test performed.
+Current scope: Tiny3D menu shell + basic pad navigation.
+Not included: Horizon Rust engine, Minecraft assets, downloader, installer, gameplay.
